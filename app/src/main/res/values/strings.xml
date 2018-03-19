@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Epicture</string>
+    <string name="nav_imgur" translatable="false">Imgur</string>
+    <string name="nav_flickr" translatable="false">Flickr</string>
+    <string name="nav_instagram" translatable="false">Instagram</string>
+    <string name="toolbar_action_search">Search</string>
+    <string name="toolbar_action_filter">Filter</string>
+    <string name="toolbar_action_refresh">Refresh</string>
+    <string name="toolbar_action_search_hint">Search…</string>
+    <string name="toolbar_action_authenticate">Authenticate</string>
+    <string name="txt_submitted">Submitted on %1$s</string>
+    <string name="txt_views">%1$d views</string>
+    <string name="txt_likes">%1$d likes</string>
+    <string name="txt_by">By %1$s</string>
+    <string name="toast_please_auth">Please authenticate to start using %1$s</string>
+    <string name="toast_auth_notimpl">Authentication not implemented for %1$s</string>
+    <string name="toast_auth_ok">You are now authenticated on %1$s</string>
+    <string name="txt_untitled">Untitled</string>
+    <string name="txt_no_description">No description</string>
+</resources>

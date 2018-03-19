@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_main_imgur"
+        android:icon="@drawable/ic_imgur"
+        android:checked="true"
+        android:title="@string/nav_imgur"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_main_flickr"
+        android:icon="@drawable/ic_flickr"
+        android:title="@string/nav_flickr"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_main_instagram"
+        android:icon="@drawable/ic_instagram"
+        android:title="@string/nav_instagram"
+        app:showAsAction="ifRoom" />
+</menu>

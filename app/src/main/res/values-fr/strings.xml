@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toolbar_action_search">Rechercher</string>
+    <string name="toolbar_action_filter">Filtrer</string>
+    <string name="toolbar_action_refresh">Actualiser</string>
+    <string name="toolbar_action_search_hint">Rechercher…</string>
+    <string name="toolbar_action_authenticate">Connexion</string>
+    <string name="txt_submitted">Ajouté le %1$s</string>
+    <string name="txt_views">%1$d vues</string>
+    <string name="txt_likes">%1$d J\'aime</string>
+    <string name="txt_by">Par %1$s</string>
+    <string name="txt_untitled">Sans titre</string>
+    <string name="toast_auth_ok">Vous êtes  maintenant connecté sur %1$s</string>
+    <string name="toast_auth_notimpl">Impossible de se connecter à %1$s</string>
+    <string name="toast_please_auth">Merci de vous connecter à %1$s</string>
+    <string name="txt_no_description">Pas de description</string>
+</resources>

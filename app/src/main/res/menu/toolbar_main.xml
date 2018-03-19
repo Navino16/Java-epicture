@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="eu.epitech.epicture.MainActivity">
+    <item
+        android:id="@+id/menu_main_action_search"
+        android:title="@string/toolbar_action_search"
+        android:hint="@string/toolbar_action_search_hint"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.SearchView"/>
+    <item
+        android:orderInCategory="1"
+        android:title="@string/toolbar_action_filter"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_main_action_refresh"
+        android:orderInCategory="2"
+        android:title="@string/toolbar_action_refresh"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_main_action_authenticate"
+        android:orderInCategory="3"
+        android:title="@string/toolbar_action_authenticate"
+        app:showAsAction="never" />
+</menu>
